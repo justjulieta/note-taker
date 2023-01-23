@@ -12,5 +12,7 @@ class Save {
     read() {
         return data('db/db.json', 'utf8');
     }
-    retrieveNotes()
+    retrieveNotes() {
+        return data('db/db.json,')
+    }
 }
