@@ -7,5 +7,7 @@ The Note Taker is openps with a landing page with a link to a notes page. After 
 The application should have a db.json file on the back end that will be used to store and retrieve notes using the fs module.
 
 Mock-Up
-The following images show the web application's appearance and functionality found in images file
+The following images show the web application's appearance and functionality:
+
+[image location:](https://github.com/justjulieta/note-taker/blob/main/Develop/public/assets/images/2828316E-23E8-4389-8E3C-09700CE13F8B.png)
 
